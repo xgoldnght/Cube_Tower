@@ -13,6 +13,6 @@
 # Cube_Tower_Game
  Игра "Cube Tower" на движке Unity
  
- ![1](https://github.com/xgoldnght/Application-development/blob/Cube_Tower_Game/pic/Screenshot_1.png)
- ![2](https://github.com/xgoldnght/Application-development/blob/Cube_Tower_Game/pic/Screenshot_2.png)
- ![3](https://github.com/xgoldnght/Application-development/blob/Cube_Tower_Game/pic/Screenshot_3.png)
+ ![1](https://github.com/xgoldnght/Cube_Tower/blob/main/pic/Screenshot_1.png)
+ ![2](https://github.com/xgoldnght/Cube_Tower/blob/main/pic/Screenshot_2.png)
+ ![3](https://github.com/xgoldnght/Cube_Tower/blob/main/pic/Screenshot_3.png)
